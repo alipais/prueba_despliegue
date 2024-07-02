@@ -1,0 +1,10 @@
+
+
+Database host address:AliciaG.mysql.pythonanywhere-services.com
+
+Username:AliciaG
+
+Name bd
+AliciaG$favorite_cake
+
+contraseña:   grupo102024
